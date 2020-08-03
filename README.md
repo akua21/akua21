@@ -5,7 +5,7 @@ I'm a Computer Engineering Student at *Universidad Carlos III de Madrid* :comput
 
 Currently I'm on my fourth year of my degree. :soon: :mortar_board:
 
-I'm interested in **machine learning** :brain: and **data science**. I also like 3D design :art: and animations :space_invader: but I'm new to these.
+I'm interested in **machine learning** :brain: and **artificial intelligence**. I also like 3D design :art: and animations :space_invader: but I'm new to these.
 
 
 
