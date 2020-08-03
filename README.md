@@ -4,7 +4,12 @@ I'm a Computer Engineering Student at *Universidad Carlos III de Madrid* :comput
 
 
 I'm currently on my fourth year of my degree. :soon: :mortar_board:
-I'm interested in **machine learning** :brain:
+
+I'm interested in **machine learning** :brain: and **data science**. I also like :three: :d: design :art: and animations :space_invader: but I'm new to these.
+
+
+
+
 
 <!--
 **akua21/akua21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
