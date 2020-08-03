@@ -1,8 +1,10 @@
 ### Hoi 👋 I'm Alba Reinders!
 #### WELCOME TO MY GITHUB PAGE
-I'm a Computer Engineering Student at Universidad Carlos III de Madrid :computer:
+I'm a Computer Engineering Student at *Universidad Carlos III de Madrid* :computer:
 
 
+I'm currently on my fourth year of my degree. :soon: :mortar_board:
+I'm interested in **machine learning** :brain:
 
 <!--
 **akua21/akua21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
