@@ -1,5 +1,6 @@
 ### Hoi 👋 I'm Alba Reinders!
 #### WELCOME TO MY GITHUB PAGE
+I'm a Computer Engineering Student at Universidad Carlos III de Madrid :computer:
 
 
 
