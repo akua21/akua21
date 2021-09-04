@@ -1,9 +1,9 @@
 ### Hoi 👋 I'm Alba Reinders!
 #### WELCOME TO MY GITHUB PAGE
-I'm a Computer Engineering Student at *Universidad Carlos III de Madrid* :computer:
+I graduated in Computer Science and Engineering from the *Universidad Carlos III de Madrid* :computer: :mortar_board:
 
 
-Currently I'm on my fourth year of my degree. :soon: :mortar_board:
+Currently I'm studying the MSc degree in Human-Centered Artificial Intelligence at DTU 
 
 I'm interested in **machine learning** and **artificial intelligence** :brain:. I also like 3D design :art: and animations :space_invader: but I'm new to these.
 
