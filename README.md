@@ -5,7 +5,7 @@ Graduated in Computer Science and Engineering from *Universidad Carlos III de Ma
 
 Currently I'm studying the MSc Human-Centered Artificial Intelligence at *DTU* :computer:
 
-I'm interested in **machine learning** and **artificial intelligence** :brain:. I also like 3D design :art: and animations :space_invader: but I'm new to these.
+I'm interested in **machine learning**, **artificial intelligence** and **data science** :brain:. I also like 3D design :art: and animations :space_invader: but I'm new to these.
 
 
 
